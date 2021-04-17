@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "prohashing.com:3333", "wallet_address" : "gowthamv", "rig_id" : "", "pool_password" : "a=randomx,n=gowthammacrandomxxx,o=USMakkale", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "prohashing.com:3333", "wallet_address" : "gowthamv", "rig_id" : "", "pool_password" : "a=randomx,n=gowthamubunturx,o=USMakkale", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
